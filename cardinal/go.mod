@@ -80,7 +80,7 @@ require (
 	github.com/go-openapi/swag v0.22.4 // indirect
 	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/gofiber/contrib/websocket v1.3.0 // indirect
-	github.com/gofiber/fiber/v2 v2.52.0 // indirect
+	github.com/gofiber/fiber/v2 v2.52.1 // indirect
 	github.com/gofiber/swagger v0.1.14 // indirect
 	github.com/gogo/protobuf v1.3.3 // indirect
 	github.com/golang/glog v1.1.2 // indirect
